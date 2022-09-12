@@ -1,0 +1,140 @@
+bgc - #F5F7FA lightblue - #00BAF2 strongblue - #0F4A8A hoverstrongblue - #0D3E80
+lightbluebg - #F0FBFF cardshoverblue - #00AFE3
+
+<div>
+  <img class="w-[50px]" src="./paytm-assets/rnp 2.png" alt=" " />
+  <p>Pay Rent Payment<i class="fa-solid fa-angle-right"></i></p>
+</div>
+<div>
+  <img class="w-[50px]" src="./paytm-assets/rnp 3.png" alt=" " />
+  <p>Pay Electricity Bill<i class="fa-solid fa-angle-right"></i></p>
+</div>
+<div>
+  <img class="w-[50px]" src="./paytm-assets/rnp 4.png" alt=" " />
+  <p>Recharge DTH Connection<i class="fa-solid fa-angle-right"></i></p>
+</div>
+<div>
+  <img class="w-[50px]" src="./paytm-assets/rnp 5.png" alt=" " />
+  <p>Book Gas Cylinder<i class="fa-solid fa-angle-right"></i></p>
+</div>
+<div>
+  <img class="w-[50px]" src="./paytm-assets/rnp 6.png" alt=" " />
+  <p>Pay Credit Card Bill<i class="fa-solid fa-angle-right"></i></p>
+</div>
+<div>
+  <img class="w-[50px]" src="./paytm-assets/rnp 7.png" alt=" " />
+  <p>All Payment Services<i class="fa-solid fa-angle-right"></i></p>
+</div>
+
+<!--  -->
+<div class="flex justify-around items-center bg-white py-12">
+  <div class="space-y-5">
+    <img class="w-[150px]" src="./paytm-assets/travel.png" alt="" />
+    <p class="text-base font-normal text-slate-900">
+      Best travel solutions with <br />
+      quick ticket bookings, great <br />
+      offers and easy refunds
+    </p>
+    <p class="text-lg font-medium text-cardslightblue">Learn More</p>
+  </div>
+  <div class="flex space-x-4 text-lg font-bold text-white">
+    <div class="p-7 space-y-5 rounded-lg bg-cardslightblue">
+      <img class="w-[70px]" src="./paytm-assets/refund.png" alt="" />
+      <p>100% Refund</p>
+      <p>
+        with paytm's <br />
+        cancellation protect
+      </p>
+    </div>
+    <div class="p-7 space-y-5 rounded-lg bg-cardslightblue">
+      <img class="w-[70px]" src="./paytm-assets/health.png" alt="" />
+      <p>Sanitised Bus Options With TravelSafe+</p>
+    </div>
+    <div class="space-y-5 rounded-lg bg-cardslightblue w-[200px] h-[250px]">
+      <img class="w-[70px]" src="./paytm-assets/train.png" alt="" />
+      <p>
+        Hassle Free <br />
+        Train Ticket <br />
+        Bookings
+      </p>
+    </div>
+    <div class="p-2 space-y-5 rounded-lg bg-cardslightblue">
+      <img class="w-[70px]" src="./paytm-assets/pnr.png" alt="" />
+      <p>
+        PNR Status <br />
+        Check In Few <br />
+        Simple Clicks
+      </p>
+    </div>
+  </div>
+</div>
+
+<!--  -->
+<div
+  class="flex justify-between items-baseline items-start flex-wrap text-lg lg:flex-row"
+>
+  <div
+    class="w-[150px] h-[200px] flex flex-col justify-center items-start space-y-4 rounded-md hover:bg-cardshoverlightblue px-6 py-4"
+  >
+    <img class="w-[55px]" src="./paytm-assets/rnp 1.png" alt="" />
+    <p>
+      Recharge <br /><span class="font-bold">Prepaid Mobile</span
+      ><i class="fa-solid fa-angle-right ml-[5px] text-base"></i>
+    </p>
+  </div>
+  <div
+    class="w-[150px] h-[200px] flex flex-col justify-center items-start space-y-4 rounded-md hover:bg-cardshoverlightblue px-6 py-4"
+  >
+    <img class="w-[55px]" src="./paytm-assets/rnp 2.png" alt="" />
+    <p>
+      Pay <br /><span class="font-bold">Rent Payment</span
+      ><i class="fa-solid fa-angle-right ml-[5px] text-base"></i>
+    </p>
+  </div>
+  <div
+    class="w-[150px] h-[200px] flex flex-col justify-center items-start space-y-4 rounded-md hover:bg-cardshoverlightblue px-6 py-4"
+  >
+    <img class="w-[55px]" src="./paytm-assets/rnp 3.png" alt="" />
+    <p>
+      Pay <br /><span class="font-bold">Electricity Bill</span
+      ><i class="fa-solid fa-angle-right ml-[5px] text-base"></i>
+    </p>
+  </div>
+  <div
+    class="w-[150px] h-[200px] flex flex-col justify-center items-start space-y-4 rounded-md hover:bg-cardshoverlightblue px-5 py-4"
+  >
+    <img class="w-[55px]" src="./paytm-assets/rnp 4.png" alt="" />
+    <p>
+      Recharge <br /><span class="font-bold">DTH connection</span
+      ><i class="fa-solid fa-angle-right ml-[5px] text-base"></i>
+    </p>
+  </div>
+  <div
+    class="w-[150px] h-[200px] flex flex-col justify-center items-start space-y-4 rounded-md hover:bg-cardshoverlightblue px-6 py-4"
+  >
+    <img class="w-[55px]" src="./paytm-assets/rnp 5.png" alt="" />
+    <p>
+      Book<br />
+      <span class="font-bold">Gas Cylinder</span
+      ><i class="fa-solid fa-angle-right ml-[5px] text-base"></i>
+    </p>
+  </div>
+  <div
+    class="w-[150px] h-[200px] flex flex-col justify-center items-start space-y-4 rounded-md hover:bg-cardshoverlightblue px-6 py-4"
+  >
+    <img class="w-[55px]" src="./paytm-assets/rnp 6.png" alt="" />
+    <p>
+      Pay <br /><span class="font-bold">Credit Card Bill</span
+      ><i class="fa-solid fa-angle-right ml-[5px] text-base"></i>
+    </p>
+  </div>
+  <div
+    class="w-[150px] h-[200px] flex flex-col justify-center items-start space-y-4 rounded-md hover:bg-cardshoverlightblue px-6 py-4"
+  >
+    <img class="w-[55px]" src="./paytm-assets/rnp 7.png" alt="" />
+    <p>
+      All <br /><span class="font-bold">Payment Services</span
+      ><i class="fa-solid fa-angle-right ml-[5px] text-base"></i>
+    </p>
+  </div>
+</div>
